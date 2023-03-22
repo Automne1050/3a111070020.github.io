@@ -11,3 +11,30 @@ body {
     font-family: 'Noto Sans TC' ,sans-serif;
     text-transform: none;
  }
+
+ .expedu-icon{
+    color:#495057;
+    text-decoration:none;
+ }
+
+ .expedu-icon:hover{
+    color:var(--bs-secondary);
+ }
+
+ :root{
+    --bs-primary:#e78a7d;
+    --bs-primary-rgb:231,138,125;
+    --bs-secondary:#5fa4b5;
+    --bs-secondary-rgb:95,164,181;
+ }
+
+ a{
+    color:var(--bs-primary);
+ }
+ a:hover{
+    color:var(--bs-secondary);
+ }
+
+ .social-icons .social-icon:hover{
+    background-color:var(--bs-secondary);
+ }
