@@ -38,3 +38,7 @@ body {
  .social-icons .social-icon:hover{
     background-color:var(--bs-secondary);
  }
+
+ .tt {
+   height: 4rem;
+ }
