@@ -42,3 +42,7 @@ body {
  .tt {
    height: 4rem;
  }
+
+ .card {
+   width: 300px;
+ }
